@@ -1,0 +1,29 @@
+# Entorno virtual
+.venv/
+
+# Variables de entorno
+.env
+
+# Cache de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de configuración del sistema
+.DS_Store
+Thumbs.db
+
+# Configuración de VS Code
+.vscode/
+
+# Configuración de PyCharm
+.idea/
+
+# Vectorstore generado
+vectorstore/
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
