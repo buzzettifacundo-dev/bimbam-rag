@@ -20,7 +20,7 @@ Thumbs.db
 .idea/
 
 # Vectorstore generado
-vectorstore/
+
 
 # Logs
 *.log
