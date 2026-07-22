@@ -62,9 +62,9 @@ BimBam Buy acepta tarjetas de crédito, tarjetas de débito y otros medios de pa
 
 Agregar aquí el enlace al video.
 
-Ejemplo:
+Video completo mostrando el funcionamiento del asistente, desde la carga de la aplicación hasta la resolución de consultas utilizando la base documental.
 
-https://youtu.be/TU_VIDEO
+https://youtu.be/gePjii4wkUI
 
 ---
 
